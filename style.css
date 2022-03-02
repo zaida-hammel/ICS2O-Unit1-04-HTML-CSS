@@ -1,10 +1,10 @@
 body {
-  background-color: lightgray;
+  background-color: rgb(194, 194, 194);
 }
 
 h1 {
   background-color: rgb(127, 190, 150);
-  color: hsl(15, 0%, 31%);
+  color: rgb(79, 79, 79);
   padding: 40px;
   text-align: center;
 }
